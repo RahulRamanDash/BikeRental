@@ -1,3 +1,3 @@
 # Bike Rental Application using java, HiberNate, jsf, mysql.
 
-![login preview](files/images/login.png)
+![login preview](src/main/webapp/files/images/login.png)
